@@ -7,3 +7,6 @@
   - Once we have our dataset and label ready it is time to predict the which family a new upcoming data belongs to 
   - On the other hand, finding movie that are closer to the certain family on the basis of Eculedian distance. 
   - With neighbors are found we can recommend those movies and save it for future reference
+  
+  
+![image](https://user-images.githubusercontent.com/90983067/209904357-c876982b-4a56-45a1-b12d-c88733a85f4b.png)
